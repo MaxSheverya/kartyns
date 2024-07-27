@@ -1,0 +1,121 @@
+.mays-img {
+    border-radius: 12px;
+    width: 518px;
+    height: 500px;
+    margin: 76px;
+}
+
+.koko-text {
+    border-radius: 12px;
+    width: 518px;
+    height: 75px;
+}
+
+.main {
+    background: #e7dfd8;
+
+}
+
+.h3 {
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 189%;
+    color: #101010;
+}
+
+.miki-mays-contentainer {
+    display: flex;
+}
+
+.mays-text {
+    text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+
+.a {
+    border-radius: 8px;
+    padding: 10px 20px;
+    width: 183px;
+    height: 43px;
+    background: #b99fea;
+}
+
+.koko-contentainer {
+    display: flex;
+}
+
+.div {
+    margin-left: 143px;
+}
+
+.koko-img {
+    border-radius: 12px;
+    width: 518px;
+    height: 500px;
+    margin: 76px;
+}
+
+.Wayana-contentainer {
+    display: flex;
+}
+
+.Wayana-img {
+    border-radius: 12px;
+    margin: 76px;
+}
+
+.span-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100px;
+    font-size: 38px;
+    width: 74px;
+    height: 74px;
+    background: #b99fea;
+    margin-right: 30px;
+}
+
+.span-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100px;
+    font-size: 38px;
+    width: 74px;
+    height: 74px;
+    background: #eba789;
+    margin-right: 30px;
+}
+
+.span-3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100px;
+    font-size: 38px;
+    width: 74px;
+    height: 74px;
+    background: #96dbc6;
+    margin-right: 30px;
+}
+
+.miki-mays {
+    display: flex;
+    align-items: center;
+}
+
+.main {
+    height: 100%;
+}
+
+p.Wayana-text {
+    width: 489px;
+}
+
+.mays-text {
+    width: 489px;
+}
+
+.koko-text {
+    width: 489px;
+}
